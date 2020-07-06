@@ -1,0 +1,9 @@
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Repository\bin\Debug\netcoreapp3.1\Wasmah.Repository.deps.json
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Repository\bin\Debug\netcoreapp3.1\Wasmah.Repository.dll
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Repository\obj\Debug\netcoreapp3.1\Wasmah.Repository.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Repository\obj\Debug\netcoreapp3.1\Wasmah.Repository.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Repository\bin\Debug\netcoreapp3.1\Wasmah.Repository.pdb
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Repository\obj\Debug\netcoreapp3.1\Wasmah.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Repository\obj\Debug\netcoreapp3.1\Wasmah.Repository.dll
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Repository\obj\Debug\netcoreapp3.1\Wasmah.Repository.pdb
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Repository\obj\Debug\netcoreapp3.1\Wasmah.Repository.csprojAssemblyReference.cache

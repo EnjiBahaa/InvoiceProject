@@ -1,0 +1,15 @@
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\bin\Debug\netcoreapp3.1\Wasmah.Context.deps.json
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\bin\Debug\netcoreapp3.1\Wasmah.Context.dll
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\obj\Debug\netcoreapp3.1\Wasmah.Context.csprojAssemblyReference.cache
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\obj\Debug\netcoreapp3.1\Wasmah.Context.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\obj\Debug\netcoreapp3.1\Wasmah.Context.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\bin\Debug\netcoreapp3.1\Wasmah.Context.runtimeconfig.json
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\bin\Debug\netcoreapp3.1\Wasmah.Context.runtimeconfig.dev.json
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\obj\Debug\netcoreapp3.1\Wasmah.Context.genruntimeconfig.cache
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\bin\Debug\netcoreapp3.1\Wasmah.Context.pdb
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\obj\Debug\netcoreapp3.1\Wasmah.Context.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\obj\Debug\netcoreapp3.1\Wasmah.Context.dll
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\obj\Debug\netcoreapp3.1\Wasmah.Context.pdb
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\bin\Debug\netcoreapp3.1\Wasmah.Entities.dll
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\bin\Debug\netcoreapp3.1\Wasmah.Entities.pdb
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.Context\obj\Debug\netcoreapp3.1\Wasmah.Context.csproj.CopyComplete

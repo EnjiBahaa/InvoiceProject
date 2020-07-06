@@ -1,0 +1,16 @@
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\bin\Debug\netcoreapp3.1\Wasmah.BusinessLogic.deps.json
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\bin\Debug\netcoreapp3.1\Wasmah.BusinessLogic.dll
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\obj\Debug\netcoreapp3.1\Wasmah.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\obj\Debug\netcoreapp3.1\Wasmah.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\obj\Debug\netcoreapp3.1\Wasmah.BusinessLogic.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\bin\Debug\netcoreapp3.1\Wasmah.BusinessLogic.pdb
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\obj\Debug\netcoreapp3.1\Wasmah.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\obj\Debug\netcoreapp3.1\Wasmah.BusinessLogic.dll
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\obj\Debug\netcoreapp3.1\Wasmah.BusinessLogic.pdb
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\bin\Debug\netcoreapp3.1\Wasmah.Context.dll
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\bin\Debug\netcoreapp3.1\Wasmah.Entities.dll
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\bin\Debug\netcoreapp3.1\Wasmah.Repository.dll
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\bin\Debug\netcoreapp3.1\Wasmah.Context.pdb
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\bin\Debug\netcoreapp3.1\Wasmah.Entities.pdb
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\bin\Debug\netcoreapp3.1\Wasmah.Repository.pdb
+C:\Users\pc\Source\Repos\Wasmah\Wasmah.BusinessLogic\obj\Debug\netcoreapp3.1\Wasmah.BusinessLogic.csproj.CopyComplete
